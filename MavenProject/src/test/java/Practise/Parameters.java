@@ -6,5 +6,7 @@ public class Parameters {
 		//Pushed1
 		
 		//Pulled1
+		
+		pull-2
 	}
 }
